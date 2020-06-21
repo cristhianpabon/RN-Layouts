@@ -10,7 +10,7 @@
 
 ##### Descripción de Caracteristicas :
 
-* Mostrar Imagenes
+* Banner
 * Slider Carousel de Imagenes (ScrollView Horizontal)
 * Listado de Imagenes
 * Grilla de imagenes
